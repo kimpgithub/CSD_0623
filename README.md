@@ -1,0 +1,3 @@
+- make folder : processed, uploads
+- download .pt : https://github.com/ultralytics/ultralytics?tab=readme-ov-file
+  - yolov8n-seg.pt, yolo8x-seg.pt
